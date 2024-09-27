@@ -108,3 +108,5 @@ step1 - install , globally configure
 step 2 - git init 
 step 3 - git status ( untracked , tracked , staging area)
 step 4 - git add .
+step 5 - save - commit
+git commit -m "msg"
