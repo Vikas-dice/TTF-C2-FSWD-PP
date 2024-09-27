@@ -1,0 +1,110 @@
+
+
+HTML  DONE 
+CSS START *2 CLASS
+
+GIT GITHUB 
+
+Git - tool/software 
+Github - website 
+
+git - version controlling tool
+version 
+
+Project - Chat Apps 
+
+Feature 1 - texting 
+chat apps version 1.0
+
+Feature 2 - Audio Calls
+Chat Apps Version 2.0
+
+Feature 3 - Video Calls
+Chat Apps version 3.0
+
+Feature remove - texting 
+Chat apps version 4.0
+
+
+Chat Apps Project 
+India 
+
+Teams 
+1- Development 
+2- Testing 
+3-Server 
+4-Deployment Teams
+5-sales and marketing 
+
+1- Development - subteam 
+1.1 Frontend Teams
+1.2 Backend Teams
+
+2- Testing -subteams
+2.1 Manual testing Teams
+2.2 automation testing 
+
+3- Server Team 
+- data centre
+-cloud Team
+
+4- sales and marketing
+
+
+git x
+
+Chat Apps Project - 2 It company - india compnay and us company 
+
+
+india - feature code - zip files - drive - drive link - us team ---- unzip - old code base -india code - paste -- work 
+
+
+us team - feature - code base - zip --- drive --link --- india --- unzip -- old code base - paste -- work
+
+
+
+
+
+Terms 
+
+Repo/Repositroy - new folder 
+commit - save 
+fork - complete copy 
+branch -
+
+git command x
+
+version controlling - github website 
+
+
+step 1 - download git and install it 
+testing - cmd - git -v 
+
+step 2 - git configure -system 
+1- locally 
+2- globally 
+
+globally 
+
+git config --global user.name "name"
+git config --global user.email "email"
+
+
+testing - git config --list
+name and email 
+
+
+
+
+step 4 - github.com account 
+
+
+
+
+
+git 
+
+step1 - install , globally configure
+step 2 - git init 
+step 3 - git status ( untracked , tracked , staging area)
+step 4 - git add .

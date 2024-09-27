@@ -1,0 +1,29 @@
+.outer{
+    height:400px;
+    width:400px;
+    background-color: bisque;
+   padding-left:30px;
+   border:2px solid red;
+   box-sizing: border-box;
+   border-radius: 50%;
+}
+
+#para2{
+    margin: 40px;
+}
+
+.para1{
+    background-color: aqua;
+    width:200px;
+}
+
+a{
+    width:500px;
+    color:brown;
+    background-color: beige;
+    display: inline-block;
+}
+
+p{
+    display: inline;
+}
